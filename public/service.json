@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "treatment": "Dental Checkup",
+      "image": "https://images.unsplash.com/photo-1629909613654-28e377c37b09",
+      "description": "A dental checkup is a routine examination performed by a dentist to evaluate the overall health of your teeth, gums, and mouth. Regular dental checkups are essential for maintaining good oral hygiene and preventing serious dental problems. During the appointment, the dentist carefully examines your teeth for signs of cavities, gum disease, plaque buildup, and other oral health issues. X-rays may also be taken to detect hidden problems such as impacted teeth or decay between teeth that cannot be seen with the naked eye. The dentist will also examine the gums to ensure they are healthy and not showing signs of inflammation or infection. Early detection of dental issues during checkups helps prevent more complicated treatments later. The dentist may also provide guidance on proper brushing and flossing techniques, diet recommendations, and preventive care. Regular dental checkups are typically recommended every six months for most individuals, although some patients may need more frequent visits depending on their oral health condition. These visits not only keep your teeth healthy but also help maintain fresh breath and a confident smile. Preventive dental care through regular checkups is one of the most effective ways to avoid costly dental procedures in the future.",
+      "cost": 80
+    },
+    {
+      "id": 2,
+      "treatment": "Professional Teeth Cleaning",
+      "image": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5",
+      "description": "Professional teeth cleaning is a preventive dental procedure designed to remove plaque, tartar, and stains that accumulate on teeth over time. Even with daily brushing and flossing, certain areas in the mouth are difficult to clean completely, allowing bacteria to build up and form hardened deposits known as tartar. During a professional cleaning session, a dental hygienist uses specialized tools to gently remove these deposits from the surface of the teeth and along the gum line. The process usually includes scaling, polishing, and sometimes a fluoride treatment to strengthen the enamel. Regular teeth cleaning helps prevent cavities, gum disease, and bad breath while keeping the teeth looking bright and healthy. It also improves gum health by removing bacteria that can cause inflammation and bleeding. The procedure is generally painless and takes about 30 to 60 minutes depending on the level of plaque buildup. Dentists typically recommend professional cleaning every six months as part of a routine oral health care plan. Maintaining regular cleaning appointments supports long-term dental health and contributes to overall well-being, as poor oral hygiene has been linked to several systemic health conditions including heart disease and diabetes.",
+      "cost": 120
+    },
+    {
+      "id": 3,
+      "treatment": "Teeth Whitening",
+      "image": "https://images.unsplash.com/photo-1609840114035-3c981b782dfe",
+      "description": "Teeth whitening is a cosmetic dental treatment that helps brighten and enhance the appearance of your smile. Over time, teeth can become stained or discolored due to aging, smoking, or consuming foods and drinks such as coffee, tea, and red wine. Professional whitening treatments performed by dentists are much more effective than over-the-counter products. The procedure typically involves applying a safe bleaching agent containing hydrogen peroxide or carbamide peroxide to the surface of the teeth. These agents penetrate the enamel and break down deep stains that cause discoloration. In many dental clinics, a special LED or laser light is used to accelerate the whitening process and achieve faster results. The treatment usually takes about an hour and can make teeth several shades brighter in a single session. Professional teeth whitening is carefully controlled to protect the gums and minimize tooth sensitivity. Patients are often advised to avoid stain-causing foods and beverages for a few days after treatment to maintain the results. With proper oral hygiene and regular dental visits, the results of teeth whitening can last for a long time and significantly improve confidence and overall smile aesthetics.",
+      "cost": 400
+    },
+    {
+      "id": 4,
+      "treatment": "Dental Filling",
+      "image": "https://images.unsplash.com/photo-1629909613654-28e377c37b09",
+      "description": "Dental fillings are used to repair teeth damaged by cavities or minor fractures. When bacteria in the mouth produce acids that attack the enamel, they gradually create holes in the tooth known as cavities. If left untreated, cavities can grow larger and eventually reach the inner part of the tooth, causing pain and infection. During a dental filling procedure, the dentist removes the decayed portion of the tooth using specialized instruments and thoroughly cleans the affected area. The cavity is then filled with a durable restorative material such as composite resin, ceramic, or amalgam. Composite fillings are commonly used because they match the natural color of teeth and blend seamlessly with the smile. The filling restores the tooth’s structure, strength, and function, allowing patients to chew normally again. The procedure is typically completed in a single visit and is generally painless with the help of local anesthesia. Dental fillings help prevent further decay and protect the remaining healthy tooth structure. With good oral hygiene practices such as brushing, flossing, and routine dental visits, fillings can last many years while maintaining the health and functionality of the treated tooth.",
+      "cost": 200
+    },
+    {
+      "id": 5,
+      "treatment": "Root Canal Treatment",
+      "image": "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b",
+      "description": "Root canal treatment is a dental procedure used to treat infection within the tooth and save the natural tooth structure. Inside each tooth is a soft tissue called pulp that contains nerves and blood vessels. When deep decay or injury allows bacteria to reach the pulp, it can cause severe pain, swelling, and infection. Root canal therapy involves removing the infected pulp, cleaning and disinfecting the inside of the tooth, and sealing the root canals to prevent further infection. After the root canal procedure, the tooth is usually restored with a crown to protect it and restore its strength. Modern root canal treatments are highly effective and relatively comfortable thanks to advanced dental technology and anesthesia. The procedure not only relieves pain but also preserves the natural tooth, preventing the need for extraction. Saving the natural tooth helps maintain proper chewing function and prevents neighboring teeth from shifting. With proper care and regular dental visits, a tooth that has undergone root canal treatment can last many years and function just like a natural tooth.",
+      "cost": 950
+    },
+    {
+      "id": 6,
+      "treatment": "Tooth Extraction",
+      "image": "https://images.unsplash.com/photo-1598256989800-fe5f95da9787",
+      "description": "Tooth extraction is a dental procedure performed to remove a severely damaged, decayed, or problematic tooth that cannot be saved through other treatments. Dentists may recommend extraction in cases of severe tooth decay, advanced gum disease, overcrowding, or impacted wisdom teeth. The procedure is performed under local anesthesia to ensure the patient remains comfortable throughout the process. During the extraction, the dentist gently loosens the tooth from its socket and removes it carefully. In some cases, minor surgical techniques may be required if the tooth is broken or impacted. After the tooth is removed, the dentist provides instructions for proper healing and recovery. Patients are usually advised to avoid hard foods and follow good oral hygiene practices to prevent infection. Although tooth extraction may sound intimidating, modern dental techniques make the process safe and relatively painless. In many cases, dentists recommend replacing the extracted tooth with options such as dental implants, bridges, or dentures to maintain proper alignment and chewing ability. Proper aftercare ensures a smooth healing process and helps maintain overall oral health.",
+      "cost": 250
+    },
+    {
+      "id": 7,
+      "treatment": "Dental Crown",
+      "image": "https://images.unsplash.com/photo-1606811971618-4486d14f3f99",
+      "description": "A dental crown is a custom-made cap placed over a damaged or weakened tooth to restore its shape, strength, and appearance. Crowns are often recommended after procedures such as root canal treatment, large fillings, or when a tooth is cracked or severely worn. The crown completely covers the visible portion of the tooth above the gum line, providing protection and restoring functionality. Dental crowns can be made from various materials including porcelain, ceramic, metal, or porcelain fused to metal. Porcelain and ceramic crowns are popular because they closely resemble natural teeth and blend well with the surrounding smile. The procedure usually requires two visits: during the first visit, the dentist prepares the tooth and takes impressions to create a custom crown. A temporary crown may be placed until the permanent one is ready. During the second visit, the permanent crown is securely bonded to the tooth. Dental crowns are durable and can last many years with proper care. They restore normal chewing ability, protect weakened teeth from further damage, and improve the overall appearance of the smile.",
+      "cost": 1100
+    },
+    {
+      "id": 8,
+      "treatment": "Dental Implant",
+      "image": "https://images.unsplash.com/photo-1598256989800-fe5f95da9787",
+      "description": "Dental implants are one of the most advanced and reliable solutions for replacing missing teeth. The treatment involves surgically placing a small titanium post into the jawbone, which acts as an artificial tooth root. Over time, the implant integrates with the bone through a natural process called osseointegration, creating a strong and stable foundation. Once the implant has healed, a custom crown is attached to restore the appearance and function of the missing tooth. Dental implants provide several advantages over traditional dentures or bridges. They look and feel like natural teeth, provide excellent stability, and allow patients to eat and speak comfortably. Implants also help maintain jawbone health by preventing bone loss that often occurs after tooth loss. Although the treatment process may take several months due to healing periods, the long-term benefits are significant. With proper care and good oral hygiene, dental implants can last decades and significantly improve both oral function and confidence.",
+      "cost": 3500
+    },
+    {
+      "id": 9,
+      "treatment": "Orthodontic Braces",
+      "image": "https://images.unsplash.com/photo-1544717297-fa95b6ee9643",
+      "description": "Orthodontic braces are dental devices used to correct misaligned teeth, crowded teeth, and bite problems. Properly aligned teeth not only improve the appearance of the smile but also contribute to better oral health. Crooked or crowded teeth can make brushing and flossing more difficult, increasing the risk of cavities and gum disease. Braces work by applying gentle and continuous pressure on the teeth over time, gradually moving them into their correct positions. Traditional braces consist of metal brackets attached to the teeth and connected by wires that are periodically adjusted by the orthodontist. Modern orthodontic treatments may also include ceramic braces or clear aligners that are less noticeable. The duration of orthodontic treatment varies depending on the complexity of the case but typically ranges from one to three years. Regular dental visits are required during treatment to adjust the braces and monitor progress. After the braces are removed, a retainer is often used to maintain the new alignment. Orthodontic treatment not only improves the smile aesthetically but also enhances chewing function and overall dental health.",
+      "cost": 5000
+    },
+    {
+      "id": 10,
+      "treatment": "Gum Disease Treatment",
+      "image": "https://images.unsplash.com/photo-1609840114035-3c981b782dfe",
+      "description": "Gum disease treatment focuses on addressing infections and inflammation of the gums caused by bacteria buildup along the gum line. Gum disease, also known as periodontal disease, begins with mild inflammation called gingivitis and can progress to more severe stages if left untreated. Symptoms may include bleeding gums, swelling, bad breath, and gum recession. Treatment usually involves deep cleaning procedures such as scaling and root planing to remove plaque and tartar from below the gum line. In more advanced cases, additional treatments such as medication or minor surgical procedures may be required to restore gum health. Early treatment is crucial because untreated gum disease can lead to tooth loss and affect overall health. Studies have shown that gum disease may be linked to other health conditions such as heart disease and diabetes. Proper oral hygiene practices, including regular brushing, flossing, and routine dental visits, are essential for preventing gum disease and maintaining healthy gums. Professional gum treatment helps restore gum health, prevent further damage, and protect the stability of the teeth.",
+      "cost": 600
+    },
+    {
+        "id": 11,
+        "treatment": "Wisdom Tooth Removal",
+        "image": "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=800&q=60",
+        "description": "Wisdom tooth removal is a common dental surgical procedure performed to extract one or more wisdom teeth, which are the last set of molars that usually emerge in the late teenage years or early adulthood. In many cases, wisdom teeth do not have enough space to grow properly and can become impacted, meaning they grow at an angle or remain trapped beneath the gum. Impacted wisdom teeth can cause pain, swelling, infection, and damage to surrounding teeth if left untreated. During the procedure, the dentist or oral surgeon carefully removes the wisdom tooth under local anesthesia, sedation, or general anesthesia depending on the complexity of the case. The dentist may need to make a small incision in the gum or remove a portion of bone to access the tooth. After the tooth is removed, the area is cleaned and sometimes stitched to promote healing. Patients are usually advised to rest, avoid hard foods, and follow specific aftercare instructions to ensure proper healing. Wisdom tooth removal helps prevent overcrowding, infection, and long-term dental complications. With modern dental techniques and proper care, recovery is generally quick and patients can return to normal activities within a few days.",
+        "cost": 450
+      },
+      {
+        "id": 12,
+        "treatment": "Dental Veneers",
+        "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9",
+        "description": "Dental veneers are thin, custom-made shells designed to cover the front surface of teeth in order to improve their appearance. They are commonly used in cosmetic dentistry to correct issues such as stained teeth, chipped teeth, uneven spacing, or slightly misaligned teeth. Veneers are typically made from porcelain or composite resin materials that closely resemble the natural color and texture of real teeth. The procedure usually involves two or three visits to the dentist. During the first visit, the dentist examines the teeth and removes a small amount of enamel from the surface to prepare them for the veneers. Impressions of the teeth are then taken and sent to a dental laboratory where the custom veneers are created. Once ready, the veneers are bonded permanently to the teeth using a strong dental adhesive. Porcelain veneers are highly durable, stain-resistant, and can last for many years with proper care. They provide an immediate transformation to the smile, giving teeth a brighter, more uniform, and aesthetically pleasing appearance. Many patients choose veneers as part of a complete smile makeover to boost confidence and improve their overall dental aesthetics.",
+        "cost": 1400
+      }
+  ]
